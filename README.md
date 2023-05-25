@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammedzeheer
+- 👋 Hi, I’m @Mohammed
 - 👀 I’m Full stack Developer (MERN)
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on any Full-stack projects
