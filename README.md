@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedzeheer&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedzeheer" /> </p>
 
-- 🌱 I’m currently Working  **NestJS, Express, NodeJS, ReactJS**
+- 🌱 I’m currently Working  **NestJS, Express, NodeJS and ReactJS**
 - 👨‍💻 All of my projects are available at [https://mohammedzaheer.online/](https://mohammedzaheer.online/)
-- 💬 Ask me about **react,nodeJS**
+- 💬 Ask me about **React and nodeJS**
 - 💞️ I’m looking to collaborate on any Full-stack projects
 - 📫 How to reach me **zeheerzak@gmail.com**
 
