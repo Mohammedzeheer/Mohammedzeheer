@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedzeheer&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedzeheer" /> </p>
 
-- 🌱 I’m currently learning **Express,NodeJS ,ReactJS**
-
-- 👨‍💻 All of my projects are available at [https://mohammedzeheer.netlify.app/](https://mohammedzeheer.netlify.app/)
+- 🌱 I’m currently Working  **NestJS, Express, NodeJS, ReactJS**
+- 👨‍💻 All of my projects are available at [https://mohammedzaheer.online/](https://mohammedzaheer.online/)
 - 💬 Ask me about **react,nodeJS**
--  💞️ I’m looking to collaborate on any Full-stack projects
+- 💞️ I’m looking to collaborate on any Full-stack projects
 - 📫 How to reach me **zeheerzak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
