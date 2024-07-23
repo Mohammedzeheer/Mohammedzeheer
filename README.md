@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammed
-<h3 align="center">A passionate MERN Stack developer</h3>
+<h3 align="center">MERN Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedzeheer&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedzeheer" /> </p>
 
