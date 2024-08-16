@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammed
+<h2 align="center">Hi 👋, I'm Mohammed</h2>
 <h3 align="center">MERN Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedzeheer&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedzeheer" /> </p>
